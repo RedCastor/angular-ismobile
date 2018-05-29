@@ -147,4 +147,13 @@
 			return angular.copy(_window.isMobile);
 		}];
 	}]);
+
+
+    angular.module('ismobile').filter('isMobile', ['isMobile', function(isMobile) {
+
+    	return function( device ) {
+
+    		return isMobile[device];
+        };
+    }]);
 })();

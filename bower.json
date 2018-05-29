@@ -1,10 +1,11 @@
 {
   "name": "angular-ismobile",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A Angular wrapper provider-service for isMobile (https://github.com/kaimallea/isMobile)",
   "homepage": "https://github.com/ronnyhaase/angular-ismobile",
   "authors": [
-    "Ronny Haase <ronhaase@gmail.com>"
+    "Ronny Haase <ronhaase@gmail.com>",
+    "Auban le Grelle <auban@viamonkey.com>"
   ],
   "license": "CC0-1.0",
   "keywords": [

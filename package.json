@@ -1,6 +1,6 @@
 {
   "name": "angular-ismobile",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A Angular wrapper provider-service for isMobile (https://github.com/kaimallea/isMobile)",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,10 @@
     {
       "name": "Andrei Gheorghiu",
       "email": "andrei.gheorghiu@evolution.ro"
+    },
+    {
+      "name": "Auban le Grelle",
+      "email": "auban@viamonkey.com"
     }
   ],
   "license": "CC0-1.0",
