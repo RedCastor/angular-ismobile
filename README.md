@@ -69,5 +69,11 @@ angular.module('myApp').controller('someController', ['isMobile', function(isMob
 }]);
 ```
 
+## Usage Filter
+
+```html
+<p data-ng-if="('phone' | isMobile)">This is a phone header</p>
+```
+
 ## Contributing
 Please create an issue. If you add a pull request, try to respect my code style, check for JSHint and assure the unit tests do pass, and extend them if necessary!
