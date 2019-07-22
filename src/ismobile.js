@@ -1,4 +1,4 @@
-// @include ../node_modules/ismobilejs/isMobile.js
+// @include ../node_modules/ismobilejs/src/isMobile.js
 
 /**
  * angular-ismobile by Ronny Haase <ronhaase@gmail.com>
